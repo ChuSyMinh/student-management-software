@@ -1,0 +1,89 @@
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.DangNhap.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.GiaoDien.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.Properties.Resources.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.exe.licenses
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.CaNhan.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.DiemHocTap.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.GiaDinh.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.LienHe.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.SinhVien.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DoAnQuanLySinhVien.exe.config
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DoAnQuanLySinhVien.exe
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DoAnQuanLySinhVien.pdb
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.DiemRenLuyen.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.LichHoc.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.csproj.CopyComplete
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.exe
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.pdb
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.LichThi.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.CaiThienDiemThi.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.CanhCao.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.DangKyMonHoc.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.HocLaiCaiThien.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.HocPhi.resources
+C:\Users\minha\source\repos\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.KhenThuong.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DoAnQuanLySinhVien.exe.config
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DoAnQuanLySinhVien.exe
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DoAnQuanLySinhVien.pdb
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Data.v23.1.xml
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.csproj.AssemblyReference.cache
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.CaiThienDiemThi.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.CaNhan.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.CanhCao.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.DangKyMonHoc.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.DangNhap.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.DiemHocTap.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.DiemRenLuyen.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.GiaDinh.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.GiaoDien.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.HocLaiCaiThien.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.HocPhi.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.KhenThuong.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.LichHoc.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.LichThi.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.LienHe.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.Properties.Resources.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.SinhVien.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.csproj.GenerateResource.cache
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.exe.licenses
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuan.4D77A840.Up2Date
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.exe
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Debug\DoAnQuanLySinhVien.pdb

@@ -1,0 +1,5 @@
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Release\DoAnQuanLySinhVien.csproj.AssemblyReference.cache
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Release\DoAnQuanLySinhVien.CaiThienDiemThi.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Release\DoAnQuanLySinhVien.DangNhap.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Release\DoAnQuanLySinhVien.Properties.Resources.resources
+D:\Tải Về\DoAnQuanLySinhVien\DoAnQuanLySinhVien\obj\Release\DoAnQuanLySinhVien.csproj.GenerateResource.cache

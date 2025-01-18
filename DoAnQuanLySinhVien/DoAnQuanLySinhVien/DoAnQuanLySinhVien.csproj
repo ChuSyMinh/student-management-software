@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3AD2D0CE-0CCF-4DCA-8CCF-3E5BBA346775}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DoAnQuanLySinhVien</RootNamespace>
+    <AssemblyName>DoAnQuanLySinhVien</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v23.1, Version=23.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.Desktop.v23.1, Version=23.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v23.1, Version=23.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v23.1.Core, Version=23.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v23.1, Version=23.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v23.1, Version=23.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v23.1, Version=23.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CaiThienDiemThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CaiThienDiemThi.Designer.cs">
+      <DependentUpon>CaiThienDiemThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CaNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CaNhan.Designer.cs">
+      <DependentUpon>CaNhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CanhCao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CanhCao.Designer.cs">
+      <DependentUpon>CanhCao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangKyMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKyMonHoc.Designer.cs">
+      <DependentUpon>DangKyMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DiemHocTap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DiemHocTap.Designer.cs">
+      <DependentUpon>DiemHocTap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DiemRenLuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DiemRenLuyen.Designer.cs">
+      <DependentUpon>DiemRenLuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaDinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaDinh.Designer.cs">
+      <DependentUpon>GiaDinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien.Designer.cs">
+      <DependentUpon>GiaoDien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HocLaiCaiThien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HocLaiCaiThien.Designer.cs">
+      <DependentUpon>HocLaiCaiThien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HocPhi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HocPhi.Designer.cs">
+      <DependentUpon>HocPhi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhenThuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhenThuong.Designer.cs">
+      <DependentUpon>KhenThuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LichHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LichHoc.Designer.cs">
+      <DependentUpon>LichHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LichThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LichThi.Designer.cs">
+      <DependentUpon>LichThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LienHe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LienHe.Designer.cs">
+      <DependentUpon>LienHe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SinhVien.Designer.cs">
+      <DependentUpon>SinhVien.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CaiThienDiemThi.resx">
+      <DependentUpon>CaiThienDiemThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CaNhan.resx">
+      <DependentUpon>CaNhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CanhCao.resx">
+      <DependentUpon>CanhCao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangKyMonHoc.resx">
+      <DependentUpon>DangKyMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiemHocTap.resx">
+      <DependentUpon>DiemHocTap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiemRenLuyen.resx">
+      <DependentUpon>DiemRenLuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaDinh.resx">
+      <DependentUpon>GiaDinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien.resx">
+      <DependentUpon>GiaoDien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HocLaiCaiThien.resx">
+      <DependentUpon>HocLaiCaiThien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HocPhi.resx">
+      <DependentUpon>HocPhi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhenThuong.resx">
+      <DependentUpon>KhenThuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LichHoc.resx">
+      <DependentUpon>LichHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LichThi.resx">
+      <DependentUpon>LichThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LienHe.resx">
+      <DependentUpon>LienHe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SinhVien.resx">
+      <DependentUpon>SinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
